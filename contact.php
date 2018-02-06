@@ -31,8 +31,8 @@ if(isset($_POST['submitcontact']))
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Free Bootstrap Themes by Html5xCss3 dot com - Free Responsive Html5 Templates">
-    <meta name="author" content="http://www.Html5xCss3.com">
+    <meta name="description" content="">
+    <meta name="author" content="">
 	
     <title>ChokoCake | Free Bootstrap Chocolate Templates</title>
 	
@@ -100,7 +100,7 @@ if(isset($_POST['submitcontact']))
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3">
-						<p>Copyright 20xx - Designed by <a href="https://www.html5xcss3.com">HTML5xCSS3</a></p>
+						<p>Anderson Lucas - Desenv</p>
 					</div>
 					<div class="col-md-6">
 						<ul class="list-inline social-link">
