@@ -105,7 +105,7 @@ header.main-header:after{background: rgba(0, 0, 0, .8);height: 100%;width: 100%;
 .header-text .btn-primary{border:none;padding: 10px 20px;margin-right: 7px;border-radius: 0;}
 
 .header-text .btn-primary.btn-header1{background: #12B99F; color: #fff;text-shadow: none;}
-.header-text .btn-primary.btn-header2{background: #000; color: #fff;text-shadow: none;}
+.header-text .btn-primary.btn-header2{background: #555454; color: #fff;text-shadow: none;}
 .header-text .btn-primary.btn-header1:hover,
 .header-text .btn-primary.btn-header2:hover{background: #fff; color: #000;}
 @media only screen and (min-width: 768px) {

@@ -1,5 +1,4 @@
 <?php
-// Free Bootstrap Themes : www.Html5xCss3.com
 
 $text = "<span class='fail'>Error! Please try again.</span>";
 
@@ -10,11 +9,11 @@ if(isset($_POST['submitcontact']))
 	$subject=$_POST['subject'];
 	$message=$_POST['message'];
 
-	$to = "youremail@gmail.com";
-	$subject = "Html5xCss3 - Testing Contact Form";
+	$to = "lucasand96@gmail.com";
+	$subject = "AnDesenv - FrontEnd";
 	$message = " Name: " . $name ."\r\n Email: " . $email . "\r\n Message:\r\n" . $message;
 	 
-	$from = "Html5xCss3.com";
+	$from = "AnDesenv - FrontEnd";
 	$headers = "From:" . $from . "\r\n";
 	$headers .= "Content-type: text/plain; charset=UTF-8" . "\r\n"; 
 	 
