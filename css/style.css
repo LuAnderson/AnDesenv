@@ -111,6 +111,9 @@ header.main-header:after{background: rgba(0, 0, 0, .8);height: 100%;width: 100%;
 @media only screen and (min-width: 768px) {
 	.header-text .fix-right{float: right;}
 }
+@media(max-width:1090px){
+	header.main-header:after{background: rgba(0, 0, 0, .5);}
+}
 @media(max-width:767px){
 	header.main-header{text-align: center;}
 	.header-text {padding: 100px 0;}
