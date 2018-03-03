@@ -33,8 +33,6 @@ if(isset($_POST['submitcontact']))
     <meta name="description" content="">
     <meta name="author" content="">
 	
-    <title>ChokoCake | Free Bootstrap Chocolate Templates</title>
-	
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
 	
