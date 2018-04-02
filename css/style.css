@@ -365,7 +365,7 @@ footer .quicklinks li:after{position: absolute;bottom: 10px;right: 0;content: ""
 	.pd-small-md{padding: 40px 30px;}
 }
 @media only screen and (min-width: 1200px) {
-    .pd-exlarge-lg{padding: 100px 90px;}
+    .pd-exlarge-lg{padding: 55px 90px;}
 	.pd-large-lg{padding: 80px 70px;}
 	.pd-medium-lg{padding: 60px 50px;}
 	.pd-small-lg{padding: 40px 30px;}
