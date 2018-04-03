@@ -39,9 +39,9 @@ $(function () {
 
 // Google Map Custom js
 var marker;
-var image = 'images/map-marker.png';
+var image = 'images/map-marker.png'; 
 function initMap() {
-    var myLatLng = { lat: -22.987879, lng: -43.310637 };
+    var myLatLng = { lat: -23.013184, lng: -43.309594 };
 
     // Specify features and elements to define styles.
     var styleArray = [
